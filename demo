@@ -5,3 +5,5 @@ printf("Hello, World!\n");
 return 0; 
 }
 this is program prints hello world
+
+this is a simple c program.
